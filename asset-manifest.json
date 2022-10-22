@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/branch-name-generator/static/css/main.c59cc657.css",
+    "main.js": "/branch-name-generator/static/js/main.4ba67a0f.js",
+    "index.html": "/branch-name-generator/index.html",
+    "main.c59cc657.css.map": "/branch-name-generator/static/css/main.c59cc657.css.map",
+    "main.4ba67a0f.js.map": "/branch-name-generator/static/js/main.4ba67a0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c59cc657.css",
+    "static/js/main.4ba67a0f.js"
+  ]
+}
