@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/branch-name-generator/static/css/main.c59cc657.css",
-    "main.js": "/branch-name-generator/static/js/main.1aaa559c.js",
+    "main.js": "/branch-name-generator/static/js/main.e2df6655.js",
     "index.html": "/branch-name-generator/index.html",
     "main.c59cc657.css.map": "/branch-name-generator/static/css/main.c59cc657.css.map",
-    "main.1aaa559c.js.map": "/branch-name-generator/static/js/main.1aaa559c.js.map"
+    "main.e2df6655.js.map": "/branch-name-generator/static/js/main.e2df6655.js.map"
   },
   "entrypoints": [
     "static/css/main.c59cc657.css",
-    "static/js/main.1aaa559c.js"
+    "static/js/main.e2df6655.js"
   ]
 }
