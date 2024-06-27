@@ -1,7 +1,7 @@
 {
   "name": "branch-name-generator",
   "version": "0.1.0",
-  "homepage": ".",
+  "homepage": "https://github.com/CesarVargasDev/branch-name-generator",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.4",
